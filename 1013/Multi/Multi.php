@@ -65,4 +65,4 @@ $g->show($vip,2,10);
 
 $vip = new SVipUser();
 $g = new Goods();
-$g->show($vip,2,10);
+$g->show($vip,2,20);
